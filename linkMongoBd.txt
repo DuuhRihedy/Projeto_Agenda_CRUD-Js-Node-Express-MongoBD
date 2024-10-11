@@ -1,4 +1,1 @@
-mongodb+srv://eduardorihedy:Theelmet13ex@cluster0.7mkzw.mongodb.net/
-
-eduardorihedy
-Theelmet13ex
+/../
